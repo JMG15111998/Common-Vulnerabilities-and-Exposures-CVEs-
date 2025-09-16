@@ -72,6 +72,3 @@ Example:
 - [Tenable Platform](https://www.tenable.com)
 
 ---
-
-**Created by:** [Josh Madar](https://www.linkedin.com/in/joshmadar)  
-**Course Focus:** Cybersecurity Career Prep + Real-World Vulnerability Management
